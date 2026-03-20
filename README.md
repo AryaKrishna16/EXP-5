@@ -32,6 +32,7 @@ CIRCUIT DIAGRAM:
 <img width="726" height="314" alt="Screenshot 2026-03-20 113411" src="https://github.com/user-attachments/assets/b060d037-d880-4560-a447-d7261230ac4c" />
 
 
+
 OBSERVATIONS:
 
 Line regulation 
